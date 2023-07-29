@@ -899,6 +899,9 @@ header .btn{
     .last-sec .boxs .box{
         margin-bottom: 5px;
     }
+    .road-map .bigtablebro{
+        height: 1200px;
+    }
 }
 
 
@@ -942,6 +945,7 @@ header .btn{
     }
     .road-map .bigtablebro .leftbox .box, .road-map .bigtablebro .rightbox .box {
         width: 80%;
+        min-height: 260px;
     }
     .ecosystem table{
         margin-top: 50px;
@@ -982,6 +986,9 @@ header .btn{
     }
     .last-sec .boxs .box img{
         width: 100%;
+    }
+    .road-map .bigtablebro{
+        height: 1100px;
     }
     
     
