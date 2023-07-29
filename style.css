@@ -383,7 +383,7 @@ header .btn{
 .road-map .bigtablebro .box{
     position: absolute;
     width: 40px;
-    height: 220px;
+    min-height: 280px;
 }
 .road-map .bigtablebro .box3{
     display: flex;
@@ -878,7 +878,7 @@ header .btn{
         position: relative;
         top: 0;
         left: 0;
-        width: 70%;
+        width: 75%;
         margin: auto;
         margin-bottom: 30px;
 
@@ -939,6 +939,9 @@ header .btn{
     }
     .howtobuy .contanier .boxs .box{
         width: 100%;
+    }
+    .road-map .bigtablebro .leftbox .box, .road-map .bigtablebro .rightbox .box {
+        width: 80%;
     }
     .ecosystem table{
         margin-top: 50px;
